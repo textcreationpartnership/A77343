@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A breviate of the cause depending, and proofes made before the committee of the late Parliament for the Fens by the inhabitants between Borne and Kime Eae, in the county of Lincolne, being lords, owners and commoners of, and in the several Fens, where in Sir William Killigrew, &amp;c. pretends a title as sharers with the late Earle of Lindsey.</title>
+         </titleStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77343</idno><idno type="EEBO-CITATION">99870876</idno>
+  <idno type="VID">123272</idno>
+  <idno type="EEBO-PROQUEST">2240948068</idno>
+  
+            <idno type="STC">Wing B4412</idno>
+            <idno type="STC">Wing K456</idno>
+            <idno type="STC">Thomason 669.f.19[63]</idno>
+            <idno type="STC">ESTC R212234</idno>
+            <idno type="PROQUEST">99870876</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99870876e"/>
+            <note>(EEBO-TCP ; phase 2, no. A77343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123272)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[63])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A breviate of the cause depending, and proofes made before the committee of the late Parliament for the Fens by the inhabitants between Borne and Kime Eae, in the county of Lincolne, being lords, owners and commoners of, and in the several Fens, where in Sir William Killigrew, &amp;c. pretends a title as sharers with the late Earle of Lindsey.</title>
+                  <author>Killigrew, William, Sir, 1606-1695.</author>
+                  <author>Brooke, John, Sir, 17th cent.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Wing entry B4412 says:"[=K456]"; B4412 has imprint [n.p., 1655?], K456 has [London, 1651?]; Thomason copy bound with other items dated 1655.</note>
+                  <note>Includes two letters by Sir John Brooke (pp. 11-12), and "A brief relation by the commoners in Lincolnshire".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lindsey, Robert Bertie, --  Earl of, 1582-1642 --  Early works to 1800.</term>
+               <term type="topical_term">Drainage --  England --  Lincolnshire --  Early works to 1800.</term>
+               <term type="geographic_name">Fens, The (England) --  Early works to 1800.</term>
+               <term type="geographic_name">Lincolnshire (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:123272:1"/>
+            <head>A Breviate of the Cause depending, and proofes made before the Committee of the late Parliament for the Rens, by the Inhabitants between <hi>Borne</hi> and <hi>Kime Eae,</hi> in the County of <hi>Lincolne,</hi> being Lords, Owners and Commoners of, and in the several Fens, wherein Sir <hi>William Killigrew,</hi> &amp;c. pretends a Title as Sharers with the late Earle of <hi>Lindsey.</hi>
+            </head>
+            <p>
+               <hi>IMprimis,</hi> The Undertakers proceeding was illegal, being Judges and Parties. Secondly, the Tax was laid by Command from the King, and not according to the Commission of Sewers of 23 <hi>H.</hi> 8 by View and Jury, nor with the consent of the Owners and Commoners, but against it, contrary to the 43. of <hi>Eliz.</hi> Thirdly, the Tax was unequal, incertain, and insufficient in Law, purposely so laid, that the Owners might not pay it; but we desire the Undertakers title to the Lands in question be referred, and left to the determination of the Law, such a mercy as the Owners and Commoners could not have expected, had the Undertakers power prevailed.</p>
+            <p>Now for matter of fact, which is yet to be resolved of, we the Owners and Commoners declare and prove as followeth; which proofes and before the present Committee, every proofe marked <hi>Nom.</hi> as followeth.</p>
+            <pb n="2" facs="tcp:123272:2"/>
+            <p>
+               <hi>Imprimis,</hi> the Owners and Com<g ref="char:EOLhyphen"/>moners say, that the Fens and severals in question, were not hurtfully surrounded, but use<g ref="char:EOLhyphen"/>fully drayned by their ancient Goats, Sluces, and Draines which they from time to time widened, and depened as oc<g ref="char:EOLhyphen"/>casion served, and needed no Undertaker, had not that Court project interrupted them these many years.</p>
+            <list>
+               <item>1. Proved the Countries constant drayning themselves by widening and deepening their ancient Draines and Goats, by those ancient Records men<g ref="char:EOLhyphen"/>tioned in the Clark of Sewers book, marked <hi>Nom.</hi> 62</item>
+               <item>That they were not hurtfully sur<g ref="char:EOLhyphen"/>rounded.</item>
+               <item>2. Proved by a Verdict of 25 Men, dated the 16 of <hi>Ian.</hi> 5. <hi>Car.</hi> before Mr. <hi>Ellis, Non.</hi>— 37</item>
+               <item>3. By divers witnesses before Mr <hi>Ellis,</hi> from <hi>Fol.</hi> 92. to <hi>Fol.</hi> 107.</item>
+               <item>4. By the note of our ancient Drains, 21 Goats, and Sluces, marked <hi>Nom.</hi> — 7</item>
+               <item>5. By the Testimony of Sir <hi>An<g ref="char:EOLhyphen"/>thony Irby,</hi> and others who wit<g ref="char:EOLhyphen"/>ness, that when the decree of judgement was given, that the Undertakers had drained the Fens, there was no outfal cut in<g ref="char:EOLhyphen"/>to the Sea, but what was anci<g ref="char:EOLhyphen"/>ently by the Owners and Com<g ref="char:EOLhyphen"/>moners, as appears, <hi>Fol.</hi> 114. and 115.</item>
+            </list>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>By the Map of the Country, we can plainly demonstrate, that the grounds that lay as subject to drowning as the Fens do, was built of, plowed, sown, and let yearly for 1 <hi>l.</hi> the Acre, some for 10 s. the Acre, and 6 s. 8 d. marked</cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">Before the said Verdict one Sir <hi>Anthony Tho<g ref="char:EOLhyphen"/>mas,</hi> with others, was by the King commen<g ref="char:EOLhyphen"/>ded to be Undertaker; the Commissioners then proceeded legally to enquire by Jury, and to contract with the Lords, Owners and Commoners consents, for such grounds as were hurtfully surrounded, which the Earl of <hi>Lindsey</hi> never medled withal.</cell>
+                     <cell>
+                        <hi>Witness to the first part the Kings first letter da<g ref="char:EOLunhyphen"/>ted</hi> 16. <hi>of</hi> Jun. 1629. <hi>No.</hi>
+                     </cell>
+                     <cell>53</cell>
+                  </row>
+                  <row>
+                     <cell>2. <hi>Witness Sir</hi> Antho. Irbies <hi>Letter</hi> &amp;c. <hi>in ans. to the Kings, marked No.</hi>
+                     </cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <hi>And Sir</hi> Anthonies <hi>testimo<g ref="char:EOLhyphen"/>ny to the Committee.</hi>
+                     </cell>
+                  </row>
+                  <pb n="3" facs="tcp:123272:3"/>
+                  <row>
+                     <cell rows="2">The Undertakers design not being countenanced by Law, they conjure up Prerogative, and an arbi<g ref="char:EOLhyphen"/>trary power to command the Commissioners to lay greater Taxes, and to review, not consulting with the Owners, nor the Law; Sir <hi>Robert Killegrew,</hi> Sir <hi>William Killegrews</hi> father, was a procurer of those Letters from the King to carry on this design—</cell>
+                     <cell>
+                        <hi>Proved by the K. Letter dated the</hi> 12. <hi>of</hi> Feb. 8. Car. <hi>No.</hi>
+                     </cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The project being thus set, <hi>Robert</hi> Earl of <hi>Lindsey,</hi> Sir <hi>Robert Killegrew,</hi> Sir <hi>William Killegrew,</hi> and <hi>Robert Long</hi> Esq; procures the King to commend them Undertakers, the Commoners not sending for them.</cell>
+                     <cell>
+                        <hi>Proved by the K. letter dated the</hi> 18. <hi>of</hi> Apr. 9. Car. <hi>No.</hi>—</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">This design not finding such favour amongst the Commissioners as was expected, the Undertakers procured a third Letter to commend <hi>Robert</hi> Earl of <hi>Lindsey,</hi> Lord Lieutenant of the County, sole Un<g ref="char:EOLhyphen"/>dertaker, conceiving his power would better pre<g ref="char:EOLhyphen"/>vail then strangers, and that the other three might act as Commissioners, and so make their own bar<g ref="char:EOLhyphen"/>gain, and contrive their own Laws, which they ef<g ref="char:EOLhyphen"/>fectually did, they by a secret combination having equal interest with the Earl. —</cell>
+                     <cell>
+                        <hi>Proved by the K. letter dated</hi> 2. <hi>of</hi> April, 11. Car. <hi>Nom.</hi> —</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proved by Mr.</hi> Deaths <hi>Deed, dated the</hi> 25 <hi>of</hi> May 13. C. <hi>No.</hi>
+                     </cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>By Sir</hi> Edw. Heron <hi>&amp; Mr.</hi> Nich. Loves <hi>deed dated</hi> 30 <hi>of</hi> Novemb. 13 Car. <hi>Nom.</hi>—</cell>
+                     <cell>71</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">This design being thus evilly set, was violently and evilly prosecuted: 1. They procure themselves friends and sharers, to be Commissioners, <hi>viz.</hi> the Earl himself, Sir <hi>Robert Killegrew,</hi> Sir <hi>William Kil<g ref="char:EOLhyphen"/>legrew,</hi> Mr. <hi>Robert Long,</hi> Sir <hi>Edward Heron,</hi> Sir <hi>Iohn Brooke,</hi> (the Lord <hi>Willoughby,</hi> Sir <hi>Pereorine Bartue,</hi> the Earls sons and sharers, Mr. <hi>William Langton;</hi> these acted, these appeared to be sharers, so soon as the Earl had an interest, they could not appeare sooner, and appearing so soon as they did, which was before judgement; can any imagin but they were in the designe at the first?</cell>
+                     <cell>
+                        <hi>The Commission dated</hi> 8. <hi>Ian.</hi> 9. <hi>Ca. proves them Commissioners &amp; of the Quo<g ref="char:EOLhyphen"/>rum Non.</hi> —</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> Peregrine <hi>Bartues ac<g ref="char:EOLhyphen"/>counts proveth contributers to the work before judgement. No.</hi>
+                     </cell>
+                     <cell>9 <hi>&amp;</hi> 11</cell>
+                  </row>
+                  <pb n="4" facs="tcp:123272:4"/>
+                  <row>
+                     <cell rows="2">2. They revoke a former Tax of 5 s. the Acre, &amp; by command from the King, layes a tax of 13 s. 4 d. the Acre, they ruling the rest of the Commissioners.</cell>
+                     <cell>Proved by their decree of Repeal, No—</cell>
+                     <cell>67</cell>
+                  </row>
+                  <row>
+                     <cell>And their decree of tax of 13 s. 4 d. the Acre, dat. the 26 of <hi>Feb.</hi> 8 <hi>Carol.</hi>
+                     </cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">3. The view of what ground was surrounded, which was the foundation of their designe, was notorious, and corrupt, and putrified all the rest; for the Earl himself, his Son the Lord <hi>Willoughby,</hi> Sir <hi>Edw. Heron,</hi> Sir <hi>Iohn Brooks, William Langton,</hi> and <hi>Robert Long</hi> Esq; were Viewers: The Object lay so near their covetous corrupt eyes, that they tooke Land for Water; in which view they un<g ref="char:EOLhyphen"/>worthyly use Sir <hi>William Armins</hi> name to certi<g ref="char:EOLhyphen"/>fie with them, who never viewed.</cell>
+                     <cell>Proved by their Decree of view, dat. the 2. of <hi>Mar.</hi> 1632. marked No. —</cell>
+                     <cell>70.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">And by Sir <hi>William Armins</hi> testimony be<g ref="char:EOLhyphen"/>fore the Commit<g ref="char:EOLhyphen"/>tee.</cell>
+                  </row>
+                  <row>
+                     <cell rows="5">4. Being Judges and parties, as before, and having layd their foundation, &amp; built up the walls of their works themselves, they get other Commissioners to help them to cover and roof it, them<g ref="char:EOLhyphen"/>selves being still Master-work<g ref="char:EOLhyphen"/>men, as appears by their severall decrees afterwards made, where they sell our Land without our consents, and against them, the Cause grounded from their own corrupt view, which being ille<g ref="char:EOLhyphen"/>gal, &amp; corrupt, al decrees groun<g ref="char:EOLhyphen"/>ded thereon, as these were, must needs be so.</cell>
+                     <cell>
+                        <hi>Proved some of the said parties Com<g ref="char:EOLhyphen"/>missioners in their Decree, dat.</hi> 18. Apr. 1635. <hi>which upon the Kings let<g ref="char:EOLhyphen"/>ter decreed the Ʋndertakers</hi> 24000. <hi>Acrees out of</hi> 72000. No.</cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Decree for bounding,</hi> 1. Aug. 13. Car. <hi>the Commssioners were most sharers.</hi> Nom. —</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Decree for Exchange.</hi> Nom. —</cell>
+                     <cell>73</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Decree of</hi> 14000. <hi>Acres. Many sharers.</hi> No. —</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Decree of Iudgement</hi> 14. Mar. 14. Car. <hi>which was before any out<g ref="char:EOLhyphen"/>fall cut as before Many sharers.</hi> No.</cell>
+                     <cell>6<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>They discharge men from Messengers signing Writings contrived by themselves without privity of Court.</cell>
+                     <cell>Proved before Mr. <hi>Ellis,</hi> from <hi>Fo.</hi>—</cell>
+                     <cell>54 to 7<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <pb n="5" facs="tcp:123272:5"/>
+                  <row>
+                     <cell rows="7">5. To support their Injustice, they bribe the King with 3000. Acres, the Queen with 500 Acres, the Lords of the Counsel <hi>(viz)</hi> Lord Keeper, Lord <hi>Cottington,</hi> Lord <hi>Dorset,</hi> Secretary <hi>Windbank</hi> (and others as they call them, wel deserving Gent) hereby they were enabled to gain the Kings Letters, Acts of State, Counsel Table Orders to perplex and terrifie the Owners, and to force their consents by imprison<g ref="char:EOLhyphen"/>ments, and threats of Star-Chamber suits.</cell>
+                     <cell cols="2">
+                        <hi>Proved the</hi> Queens <hi>bribe by a deed</hi> 18. March. 14. <hi>Caro.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <hi>Proved the bribes before</hi> Mr. Ellis fol. 35. 36. <hi>&amp;</hi> 37.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proved the Kings bribe by the Clarke of the Sewers book at the Sessions held at</hi> Sleeford, 14. <hi>and</hi> 15. <hi>daies of</hi> June, 1633. No.</cell>
+                     <cell>61</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proved their Orders, dat.</hi> 12. <hi>of</hi> June 1640.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>And the</hi> 23. <hi>of</hi> July, 1637. No. —</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The</hi> 25. Octob. 1639. No. —</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proved their Imprisonments, &amp;c. be<g ref="char:EOLhyphen"/>fore</hi> Mr. Ellis, <hi>as appears by the Depositions from</hi> fol. 38. <hi>to</hi> fol.</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">6. They sold our Lands for fix pounds the Acre, be<g ref="char:EOLhyphen"/>fore the work done, and the tax was but thirteen shil<g ref="char:EOLhyphen"/>ling four pence the Acre; and gave our Lands away by Will, before the Con<g ref="char:EOLhyphen"/>tract made. —</cell>
+                     <cell>
+                        <hi>In nono Caroli, witness a deed between</hi> Tho. Killagrew <hi>and</hi> Rich. Read <hi>mar<g ref="char:EOLhyphen"/>ked Nom.</hi>—</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <hi>They tax</hi> 36000 <hi>Acres at</hi> 13 s. 4 d. <hi>the Acre which comes to</hi> 24000 l. <hi>for which tax they were to perform the worke; they take</hi> 14000 <hi>Acres, which at their own price after</hi> 6 l. <hi>the Acre comes to</hi> 84000 l. <hi>and is really worth</hi> 140000.</cell>
+                  </row>
+                  <row>
+                     <cell>7. Mr. <hi>Long</hi> sold his share before the work begun for 1500 l. and had 500 l. <hi>per annum</hi> for carrying on the design.</cell>
+                     <cell>
+                        <hi>Witness a deed dat.</hi> 30. <hi>Nov.</hi> 13. Car. <hi>between</hi> Mr. Long, <hi>Sir</hi> Edward Heron, Mr. Love, &amp;c. Nom. —</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>8. Sir <hi>Peregrine Bartue</hi> sold one share to Mr. <hi>Death</hi> for 1100 l.</cell>
+                     <cell>
+                        <hi>VVitness</hi> Mr. Deaths <hi>deed,</hi> Nom. —</cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell>9. Sir <hi>VVilliam Killegrew,</hi> Sir <hi>Edward Heron,</hi> and Mr. <hi>Long,</hi> discharged men of Fines and Imprisonments imposed by the Court.</cell>
+                     <cell>
+                        <hi>Proved before Mr.</hi> El<g ref="char:EOLhyphen"/>lis, fol. 82. <hi>to</hi>—</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>10. They judged the ground drained by their works the 14 of <hi>March</hi> 14 <hi>Car.</hi> and the 10 of <hi>June,</hi> 16. <hi>Car.</hi> they finde their works decayed, Mr. <hi>VValpoole</hi> and them<g ref="char:EOLhyphen"/>selves Commissioners, such works so soon decayed could not be the cause of draining.</cell>
+                     <cell>
+                        <hi>Proved by a decree da<g ref="char:EOLhyphen"/>ted the</hi> 10 <hi>of</hi> June 16. <hi>Car.</hi> Nom. —</cell>
+                     <cell>76</cell>
+                  </row>
+                  <pb n="6" facs="tcp:123272:6"/>
+                  <row>
+                     <cell rows="9">11. They question their own decree, and forced many to subscribe, and they prosecu<g ref="char:EOLhyphen"/>ted that force, and laid a Taxe of 2 s. the Acre, whereby they took and sold the Com<g ref="char:EOLhyphen"/>moners Cattel, and would o<g ref="char:EOLhyphen"/>bey no Replevins, so they made themselves Masters of our real and personal Estates, that tax was to force possession, the Of<g ref="char:EOLhyphen"/>ficers imployed to take our Catttel, were of no worth nor credit, many were beat and threatned to be killed.</cell>
+                     <cell>
+                        <hi>VVitness</hi> Mortons <hi>deed and</hi> Dan<g ref="char:EOLhyphen"/>ingtons <hi>mens subscription.</hi> No. —</cell>
+                     <cell>11 <hi>&amp;</hi> 29</cell>
+                  </row>
+                  <row>
+                     <cell>2. <hi>Witness Mr.</hi> Longs <hi>own hand wri<g ref="char:EOLhyphen"/>ting.</hi> Nom. —</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> Will. Killagrews <hi>Letters,</hi> No.</cell>
+                     <cell>4. <hi>&amp;</hi> 27</cell>
+                  </row>
+                  <row>
+                     <cell>By <hi>witnesses from</hi> fol. 53 56. <hi>to</hi> fol. —</cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Others fined &amp; imprisoned,</hi> fol. 76. to fol.</cell>
+                     <cell>79</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Landy</hi> Dimock <hi>being stopt at law, was refused relief by the Commissio<g ref="char:EOLhyphen"/>ners, unless she would yeild possession.</hi> f.</cell>
+                     <cell>108 109</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The order upon the Petition.</hi> Nom. —</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>VVitness upon the tax of</hi> 2 s. <hi>Mr.</hi> Enis Letter. Nom. —</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>And divers men that suffered,</hi> fo. 81 <hi>to</hi> f.</cell>
+                     <cell>89.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">12. Mr. <hi>Hall</hi> and others were Pursuivanted up before the Lords of the Countell, and committed before the Par<g ref="char:EOLhyphen"/>liament, about <hi>April</hi> 1640.</cell>
+                     <cell>
+                        <hi>Proved before Mr.</hi> Ellis <hi>fo.</hi> 48. <hi>to fol.</hi>—</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Messongers Warrant</hi> Nom. —</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">13. Mr. <hi>Hall,</hi> &amp;c. was for<g ref="char:EOLhyphen"/>ced to enter into bond, not to disquiet the Earls possession, not to complaine but to the Board or Commissioners of Sewers.—</cell>
+                     <cell>
+                        <hi>Witnesse the Lords, Order, the</hi> 25 <hi>of</hi> Octob. 1649. Nom. —</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The condition of the Bond,</hi> Nom. —</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Welches Acquittance,</hi> Nomb. —</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>14. Mr. <hi>Hall</hi> complains to the Commissioners in the Earls absence; the Earle sendeth a Letter post to stop Mr. <hi>Halls</hi> proceedings there, so the was bound to complain where no relief was to be had, after great expence. —</cell>
+                     <cell>
+                        <hi>Witness the Earls Letter,</hi> Nomb —</cell>
+                     <cell>24</cell>
+                  </row>
+                  <pb n="7" facs="tcp:123272:7"/>
+                  <row>
+                     <cell>15. After the said last Parliament 1640. was ended, Mr. <hi>Hall</hi> with others, was again pursuivanted and forced to subscribe, for making their peaceable entries, it being them a dangerous time to oppose Prerogative power.</cell>
+                     <cell>
+                        <hi>Proved before</hi> Mr. Ellis. Fol. 53 <hi>to</hi> fol. —</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">16. The Jury that delivered the Verdict, that seemed to crosse their designes, was threatned. —</cell>
+                     <cell>
+                        <hi>Proved before</hi> Mr. Ellis, fol. 79. <hi>and</hi> —</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Verdict,</hi> Nomb. —</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>17. The Knights of the Shire for Lin<g ref="char:EOLhyphen"/>colneshire in the last Parliament testifie that at their Election this undertaking was presented for a Grievance.</cell>
+                     <cell>
+                        <hi>Before Mr.</hi> Ellis, fol. —</cell>
+                     <cell>115</cell>
+                  </row>
+                  <row>
+                     <cell>18. Their pretence of proving by wit<g ref="char:EOLhyphen"/>nesses that our Fennes were melierated by their works, we deny; and say, those Witnesses were tampered with. Besides those Witnesses most of them will ap<g ref="char:EOLhyphen"/>pear to be such: as was Actors of their oppression as fawscit right, &amp;c. and subject to our actions.</cell>
+                     <cell>
+                        <hi>Proved by</hi> John Ship <hi>and others,</hi> fo. —</cell>
+                     <cell>40. &amp; 42.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">19. This Undertaking hath already by this Parliament been condemned for a Project and Oppression by the grand Remonstrance; there being no cause depending the House of the same Nature, wherein Witnesses were ex<g ref="char:EOLhyphen"/>amined, but this of the Earl of <hi>Lind<g ref="char:EOLhyphen"/>seys,</hi> and that wherein Sir <hi>Robert Bark<g ref="char:EOLhyphen"/>ham</hi> is concerned. The which the House referred to Law.</cell>
+                     <cell cols="2">
+                        <hi>Witnesse the grand Remonstrance it self, dated</hi> 15 Decemb. 1641. <hi>which declares it an abuse of the Commission of Sewers, and abuse of the Statutes of Improvement.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <hi>Witness the order of the house in Sir</hi> Robert Barkhams <hi>cause,</hi> 13. Feb. 1640.</cell>
+                  </row>
+                  <pb n="8" facs="tcp:123272:8"/>
+                  <row>
+                     <cell rows="3">The Commoners being Petitio<g ref="char:EOLhyphen"/>ners to the House of Commons, Sir <hi>William Killegrew, &amp;c.</hi> declined the Justice of that House, and intren<g ref="char:EOLhyphen"/>ched upon the Priviledges thereof; he and the Earl of <hi>Lindsey,</hi> procu<g ref="char:EOLhyphen"/>ring Orders (during the time the cause was there depending) from the Lords House to settle possession in them, and to stay the Commo<g ref="char:EOLhyphen"/>ners Suits at Law, which was by Sir <hi>Guy Palms</hi> reported a breach of Pri<g ref="char:EOLhyphen"/>viledge.</cell>
+                     <cell cols="2">
+                        <hi>VVitnesse the Commoners first Petition. VVitness the Lords Orders dated</hi> 6. April 1641. 4 June 1641. <hi>and</hi> 2. <hi>of</hi> June 1641.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <hi>For staying of Suits, witness the Lords Order, dated the</hi> 16. Feb. 1641 <hi>Observe they first get an Order to stay the Com<g ref="char:EOLhyphen"/>moners Suits, and then Orders to quite their possessions.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <hi>That these were judged breach of pri<g ref="char:EOLhyphen"/>viledge, witness the House of Commons Order, dated the</hi> 10. <hi>of</hi> July, 1641. <hi>and Sir</hi> Guyes <hi>Report</hi> 29 Iuly, 1641.</cell>
+                  </row>
+                  <row>
+                     <cell>If the title be referred to Law as it was the opinion of the Commit<g ref="char:EOLhyphen"/>tee, where <hi>Jo. Goodwin</hi> Esq; had the chare, then to matter of possession we need not speak.</cell>
+                     <cell cols="2">
+                        <hi>Witness the resolutions of the Commit<g ref="char:EOLhyphen"/>tee under Mr.</hi> Goodwins <hi>hand, da<g ref="char:EOLhyphen"/>ted the</hi> 14. <hi>of</hi> February, 1649.</cell>
+                  </row>
+                  <row>
+                     <cell>Yet least the Undertakers should cavil at our nothing saying to the point, we shall make it plainly appear, that the possession is, and ever hath been in the Commoners; the Undertakers tyrany and op<g ref="char:EOLhyphen"/>pressions appear in the depo<g ref="char:EOLhyphen"/>sitions before Mr. <hi>Goodwin.</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>Witness the High Sheriff and Ʋnder She<g ref="char:EOLhyphen"/>ruffs and divers Depositions taken before Mr.</hi> Goodwin, <hi>far more considerable then theirs by Mr.</hi> Dymocks <hi>of</hi> 14. <hi>years of</hi> Age, <hi>and four or five others, inconsiderable persons that have been sued by us, and are still ly<g ref="char:EOLhyphen"/>able to our actions.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The House of Commons having opened the Law for the Commoners by their Votes and Conferences with the Lords, and giving them leave to proceed at Law by their Or<g ref="char:EOLhyphen"/>der dated the 12. of <hi>Iuly,</hi> 1641. the Com<g ref="char:EOLhyphen"/>moners proceeded to Tryals, and some had Composition, and others judgement at Law</cell>
+                     <cell cols="2">
+                        <hi>VVitness Mr.</hi> Halls <hi>Verdict delivered in to Mr.</hi> Good<g ref="char:EOLhyphen"/>win, <hi>and several depositions taken before him.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="9" facs="tcp:123272:9"/>
+            <p> As for Riots, or abetting of Riots, it is scandal-cast upon the considerable Lords, Owners and Commoners, there being no proofs against any of them to that purpose, neither can the Undertakers make good that foul asper<g ref="char:EOLhyphen"/>sion.</p>
+            <p>How Sir <hi>William Killigrew</hi> and most of the Petitioners derive their Titles, or what interest they have in our Lands, doth not appear by any Decree or Deed produced at the Committee. If a bare Petition be a good Title, what can any man call his own?</p>
+            <p>As for the Houses pulling down; what was disorderly done therein, or in any thing else, the offenders being most strangers, and few or no interessed persons, were impri<g ref="char:EOLhyphen"/>soned and punished, and some forced by the Lords to pay Sir <hi>William Killigrew</hi> sums of money for his loss. One Captain <hi>Hull</hi> a servant to <hi>Robert</hi> Earl of <hi>Lindsey</hi> was the chief instrument in pulling down the houses.</p>
+            <p>We the Lords, Owners and Commoners, humbly de<g ref="char:EOLhyphen"/>sire that we may be inabled our selves in the first place to improve our Lands to the best advantage of the Com<g ref="char:EOLhyphen"/>monwealth.</p>
+            <p>Our grounds are unknown to most Members, we desire some honest indifferent Gentl: may be appointed to view our Fens, and certifie the condition of them to the Par<g ref="char:EOLhyphen"/>liament; we will bear one half of the charge, if the Un<g ref="char:EOLhyphen"/>dertakers will bear the other.<note place="margin">Dimock and Wright their witnesses.</note> Their own Witnesses be<g ref="char:EOLhyphen"/>fore Mr. <hi>Goodwyn</hi> deposed, that the Fens are as bad as they were before the undertaking. They have been, and are, so good Winter-ground, that we have no better.</p>
+            <p>In the Remonstrance of the state of the Kingdom the fifteenth of <hi>Decemb.</hi> 1641. the Parliament declared large quautities of Common and several Grounds have been taken from the Subject by colour of the Statute of im<g ref="char:EOLhyphen"/>provement,<note place="margin">No Petition for Commons so taken, was examined in Parliament but ours.</note> and by abuse of the Commission of Sewers, without their con<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents, and against it; and amongst the rest, of the grand grievance there mentioned to be the
+<pb n="10" facs="tcp:123272:10"/>root and growth of the mischievous design against the Nation, enumerate that one.</p>
+            <p>The Earl of <hi>Lindsey,</hi> Sir <hi>William Killigrew,</hi> and the most of their partissipants, who took away our Commons and severals, as is above mentioned, fought with the King a<g ref="char:EOLhyphen"/>gainst the Parliament, to the uttermost of their powers, to maintain those oppressions and arbitrary proceedings; the King is condemned for that and such like Arbitrary and tyrannical proceedings; can Religion, Law, or rea<g ref="char:EOLhyphen"/>son, justifie the accessaries or chief instigators thereof.</p>
+            <p>We the Lords, Owners and Commoners, unless some few persons, fought with the Parliament, for Law, Liber<g ref="char:EOLhyphen"/>ty, and our Rights, against oppression; we prevail; the question is, Whether those that ingaged us in the warre, should-give to us what in right of Law is ours, and what by Law we have recovered, or to chose who fought a<g ref="char:EOLhyphen"/>gainst us, to keep from us what they got by an Arbitrary power, against Law and our consents?</p>
+            <p>Sir <hi>William</hi> sayeth, they have laid out great sums of money; we the Owners and Commoners have lost and ventured our lives and considerable Estates in the Parlia<g ref="char:EOLhyphen"/>ments service, and have received no recompence; and shall the conquered, who have put us to vast expence, enjoy what they have illegally taken, and we recovered by blood, purse, and Law. <hi>Solomon</hi> saith, <hi>The hope of the unjust shall perish.</hi>
+            </p>
+            <p>The King exacted of us Ship-money, which was ad<g ref="char:EOLhyphen"/>judged Arbitrary, but he built a great ship, which the Parliament found useful to beate the <hi>Dutch;</hi> there<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi>
+            </p>
+            <p>And many men layed out much money in Monopolies, therefore, <hi>&amp;c.</hi>
+            </p>
+            <p>We desire Sir <hi>William Killigrew,</hi> &amp;c. may try their rights in Court of Law or Equity; a favour we should have been glad of, had they prevailed.</p>
+            <p>The Petters writ by Sir <hi>John Brooke,</hi> now called Lord <hi>Gobham,</hi> to Sir <hi>William Killigrew</hi> at <hi>Oxford, April</hi> 1643.
+<pb n="11" facs="tcp:123272:11"/>and <hi>March</hi> 1643. printed by command of Parliament, with a Declaration thereupon in <hi>May</hi> 1643. shews what mercy we should have received from them; the chief of us of the County of <hi>Lincoln</hi> that did adhere to the Parlia<g ref="char:EOLhyphen"/>ment, being indicted by them, and found traytors by a Jury, and thereupon proclamation to seize our Estates; and yet they say Juries would finde nothing for them: the Letters in print are herewith printed.</p>
+            <div type="letter">
+               <head>Part of a Letter writ by Sir <hi>Iohn Brooke</hi> to Sir <hi>William Killigrew,</hi> dated <hi>March</hi> 27. 1643</head>
+               <p>Sir <hi>John</hi> adviseth, There must be care taken lest any notorious Traytors may escape; and therefore the King, as I conceive, must send to those he most trusts in every Shire, to certifie the names of those that ought to be exempted out of the general Par<g ref="char:EOLhyphen"/>don, as we have now done by Sir <hi>Peregrine Bar<g ref="char:EOLhyphen"/>tue</hi> for our County of <hi>Lincoln.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>A Letter from Sir <hi>Iohn Brooke</hi> to Sir <hi>Willi<g ref="char:EOLhyphen"/>am Killigrew,</hi> dated <hi>March</hi> 27. 1643.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>ACcording to my promise in my last Letter, I do send you here inclosed, the names or those that were indicted of high Treason at our last Sessi<g ref="char:EOLhyphen"/>ons at <hi>Grantham.</hi> I can adde no more news, but that this day I received from my wise the Copie of the Kings last Message to the Houses of Parliament, which was according to my heart, and the most part of it the same I formerly writ to you, which you were pleased to reade to the King. My wife
+<pb n="12" facs="tcp:123272:12"/>writes, that the Commons in Parliament will not suffer it to be printed, but I have sent it to my Lord of <hi>Newcastle</hi> to be printed at <hi>York,</hi> if he think fit. By my wifes Letter you may perceive that my house in <hi>London</hi> is plundred from the Garrets to the Cellar, and all taken away to the bigness of a nut; and I am sure you know how it was furnished; and this act done by a particular Warrant from the Committee. I will die but I will revenge it, and that ere long. God in Heaven deliver the King, and all that love him, from those base Trayterous De<g ref="char:EOLhyphen"/>vils.</p>
+               <closer>
+                  <signed>Your Servant, <hi>Iohn Brooke.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>These who are under-written, with at least 100 more, were indicted for Traytors.</p>
+                  <p>Sir <hi>Christopher Wray,</hi> Sir <hi>Anthony Irby, William Ellis</hi> Esq; Sir <hi>Edward Ayscangh, Thomas Hatcher</hi> Esq; <hi>John Wray</hi> Esq; Sir <hi>Thomas Trollop</hi> Baronet, Sir <hi>John Brownloe</hi> Baronet, <hi>Thomas Savill</hi> Esq; <hi>John Archer</hi> Esq; <hi>Thomas Lister</hi> Esq; <hi>Thomas Grantham</hi> Esq; <hi>Edward King</hi> Esq; <hi>Edward Rossiter</hi> Esq; <hi>Edward Whitchcot</hi> Esq; <hi>Edward Ayscough</hi> Esq; <hi>Thomas Blundell</hi> Esq; <hi>John Harrington</hi> Esq; <hi>Robert Cawdron</hi> Esq; <hi>Thomas Ogle</hi> Esq; <hi>Thomas Hall, John Pedder, Thomas Pell,</hi> Gentl: and a hundred more.</p>
+               </postscript>
+            </div>
+         </div>
+         <div type="document">
+            <pb n="13" facs="tcp:123272:13"/>
+            <head>A brief Relation by the Commoners in <hi>Lin<g ref="char:EOLhyphen"/>colnshire,</hi> of their legal Interest, and that nothing of Interest the Ʋndertakers have in Law.</head>
+            <p>THe Owners and Commoners in the Fens between <hi>Bourne</hi> and <hi>Kyme Eae,</hi> in the County of <hi>Lincoln,</hi> by reason of their Seniories, Resiances, and In<g ref="char:EOLhyphen"/>habitants in the Towns there, have time out of minde, without memory of man, taken all manner of profits ari<g ref="char:EOLhyphen"/>sing out of the said Fens and Commons, both for sustenta<g ref="char:EOLhyphen"/>tion of their persons, and Common of Pasture for their Cattel (as appurtenant to their Senicries and Resiances, and are, and ever have been (by custome) charged by rea<g ref="char:EOLhyphen"/>son of their Seniories, with the repairing of many Drains, Watercourses, Banks, Sleuces, and Goats, for the better<g ref="char:EOLhyphen"/>ing and making them so useful for them, and for watering several grounds in many of the said Townships, which they have been much interrupted in by several Underta<g ref="char:EOLhyphen"/>kers this twenty years in making of new works, a design continued at Court to deprive us of our ancient Rights, contrary and against the known Laws of the Land.<note place="margin">Magna Charta.</note>
+            </p>
+            <p n="1">1. By the 9 <hi>H.</hi> 3. <hi>cap.</hi> 15. no Free-man shall be distrei<g ref="char:EOLhyphen"/>ned to make banks, but such as were of old time and of right have been accustomed to make them in the time of K. <hi>H.</hi> our Grandfather.</p>
+            <p n="2">
+               <pb n="14" facs="tcp:123272:14"/> 2. Also in <hi>chap.</hi> 16. the same year, provides that no Banks shall be defended from henceforth, but such as were in desence in the time of <hi>H.</hi> our Grandfather, by the same places and bounds as they were in his time.</p>
+            <p>By the 15 and 16 Chapters, the Undertaker shall not tax me nor any ground to make new banks that before were not in charge.</p>
+            <p>This is manifested to be the true meaning of <hi>Magna Charta,</hi> by the succeeding Statute, <hi>viz.</hi> the 25 &amp; 45 <hi>Edw.</hi>
+               <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 21 <hi>R.</hi> 2. 1 <hi>H.</hi> 4. and especially the 12 <hi>Edw.</hi> 4.</p>
+            <p>By the 23 <hi>H.</hi> 8. <hi>chap.</hi> 5. the works and words mentioned in the 6 &amp; 7 chapters of the 12 <hi>Edw.</hi> 4. were united and knit up in one standing Commission, commonly called a Commission of Sewers, and all those words and works are subject to the Survey of the Commissioners mentioned in that Statute of 23 <hi>H.</hi> 8. but thereby the works and words mentioned in the 6 <hi>chap.</hi> 12 <hi>E.</hi> 4. are to be pursued as pro<g ref="char:EOLhyphen"/>per to the 6 <hi>H.</hi> 6. <hi>ch.</hi> 5. and the faults and words mentioned in the 7 <hi>ch. Ed.</hi> 4. are to be pursued according as is set forth in the 7 <hi>chap.</hi> for it is commanded by the said 23 <hi>H.</hi> 8. that the Justices shall do therein as to the Kings Justices apper<g ref="char:EOLhyphen"/>taineth, after the Laws and Statutes of our Realm, which includes the said 6 &amp; 7 <hi>chap. E.</hi> 4.</p>
+            <p>The practice is,<note place="margin">Observe the Undertakers proceeded not by Jury, but by directions of the Kings Letters.</note> and ought to be by Jury thus; is there a delinquent found by inquisition upon the substance of the 6 <hi>ch.</hi> of <hi>Edw.</hi> 4? Let the Commissioners proceed against him for the repair, or making new that which is so found to be hurtfull in his default<note n="‖" place="margin">They laid uncertain tax, upon nobody, of purpose it might not be paid.</note> by a tax, assess, distress, or sale.</p>
+            <p>Is there a Delinquent found by Inquisition upon the nu<g ref="char:EOLhyphen"/>sance mentioned in the 7 <hi>chap.</hi> of <hi>E.</hi> 4? Let them proceed against them by giving them by <hi>scire facies,</hi> half a years time to remove or correct the said nusance as the Justices appoint, upon pain of 100 Marke to be estreated.</p>
+            <p>Thus you see the power of Commissioners by the 23 <hi>H.</hi> 8. <hi>chap.</hi> 5. is limited in matter of fact by the former inten<g ref="char:EOLhyphen"/>tions of the 6 and 7 <hi>chap.</hi> of <hi>Edw.</hi> 4. and they are limited in matter of form by the words of the 23 <hi>H.</hi> 5. which re<g ref="char:EOLhyphen"/>strains
+<pb n="15" facs="tcp:123272:15"/>them to do as belongs to the Kings Justices accor<g ref="char:EOLhyphen"/>ding to the Laws, Customs, and Statutes of this Kingdom.</p>
+            <p>Now if Commissioners of Sewers be tyed to this matter of fact and form, examine how the Undertakers by their new Law can take our Inheritance, without our consent and liking, to make new Drains, Banks, &amp; Goats, for the sa<g ref="char:EOLhyphen"/>tisfying their own covetous desires, notwithstanding these limitations the innovating Undertakers would shelter themselves by words in the said 23 <hi>H.</hi> 8. <hi>viz.</hi> according to your discretions, and according to the Laws of <hi>Rumney-Marsh</hi> in that Statute expressed, implying by the word <hi>dis<g ref="char:EOLhyphen"/>cretion,</hi> that they may do what they please; which gloss confounds the text, for such discretion is absolute and ap<g ref="char:EOLhyphen"/>parent indiscretion, not supportable by that Statute, nor any other Law, their discretions being to be guided by Law and custome, as formerly expressed.</p>
+            <p>And as concerning their imaginary proceedings accor<g ref="char:EOLhyphen"/>ding to the Laws of <hi>Rumney-Marsh,</hi> that is most ridiculous; for I pray you observe the Charter granted the 36 year of <hi>H.</hi> 3 to the men of <hi>Rumney-Marsh,</hi> and you will finde that nothing is granted, but what was time out of minde in use (excepting a restraint to the Sheriff for medling with di<g ref="char:EOLhyphen"/>stresses.)</p>
+            <p>Hereby ye see custome time out of minde begets a rule, and was the ground of this Charter, which Charter was the ground of the Commission of 42 <hi>H.</hi> 3. to <hi>Hen. Bathema,</hi> to survey the Walls and Water-courses, and to cause them to be repaired by these that are bound and charged with the reparation of them; there is <hi>nihil novi,</hi> but <hi>de novo,</hi> as accustomed to be repaired or new made, agreeing to <hi>Mag<g ref="char:EOLhyphen"/>na Charta</hi> above specified.</p>
+            <p>Thus you see the projects of draining hath no foot hold or congruency with custome, use, or any Law or word of Statute before recited, but is a meer arbitrary proceeding against those Laws.</p>
+            <p>They plead that they have laid out vast summes of mo<g ref="char:EOLhyphen"/>ney.</p>
+            <pb n="16" facs="tcp:123272:16"/>
+            <p> To this I hear some make answer,<note place="margin">Note that before the <hi>43 Eliz.</hi> there was no generall Act for draining. <hi>Tyndals 4 Jac.</hi> was a particular Act, and there are some other par<g ref="char:EOLhyphen"/>ticular grounds, whereby it is most certain, that without a special di<g ref="char:EOLhyphen"/>rection by Statute, or without the power of the said <hi>43 Eliz.</hi> no person is authorized by the <hi>23 H. 8. ch. 5.</hi> or any other Statute to undertake that design, for of otherwise the said <hi>43 Eliz. Tyndals 4 Jac.</hi> and some other Statutes for <hi>Plumstead Marsh 23 Eliz.</hi> were to be judged Acts to no purpose made.</note>
+               <hi>caveat Emptor,</hi> and that it is impro<g ref="char:EOLhyphen"/>per for him to expect a Parliament succour herein, when as he hath ut<g ref="char:EOLhyphen"/>terly waved and rejected the Parlia<g ref="char:EOLhyphen"/>ment direction, which appears to be given him by the words of 43 <hi>Eliz. chap.</hi> 11. wherein all drainings are graciously provided for, both to the content of the parties interessed, and also for the due and fit recompence to the Undertaker; he hath thus spurred against a Parliamentall course, why should he now hope for a parliament redress to maintain his arbitrary course, which will reach Hills and Mountains when we have no more low Grounds left to satisfie their covetous desires.</p>
+            <p>That abuses to the persons, Goods, Lands, Drains. Goats and Banks, I leave to the expression of the several Petitions and Answers exhibited by them that are grieved and oppressed by the Undertakers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
